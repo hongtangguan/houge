@@ -6,4 +6,10 @@ package cn.itcast.controller;
  * @Description:
  */
 public class ActivityController {
+
+
+
+    //新增活动接口
+
+
 }
